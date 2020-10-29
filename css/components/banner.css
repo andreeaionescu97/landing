@@ -1,0 +1,34 @@
+.banner {
+  background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("https://images.pexels.com/photos/6231/marketing-color-colors-wheel.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+.banner-container {
+  width: 700px;
+  margin: auto;
+  margin-left: 70px;
+}
+
+.banner-container h1 {
+  padding-top: 70px;
+  font-family: 'Anton', sans-serif;
+  color: white;
+  font-size: 40px;
+}
+
+.banner-container h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #f2f2f2;
+  margin-bottom: 35px;
+}
+
+.banner-button {
+  background-color: #5cd65c;
+  padding: 10px 20px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}

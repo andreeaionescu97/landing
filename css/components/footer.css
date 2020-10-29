@@ -1,0 +1,20 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #404040;
+  height: 100px;
+  margin-top: 50px;
+}
+
+.fab {
+  padding-right: 10px;
+  padding-left: 20px;
+  color: #5cd65c;
+}
+
+.footer p {
+  color: gray;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  margin-top: 30px;
+}
